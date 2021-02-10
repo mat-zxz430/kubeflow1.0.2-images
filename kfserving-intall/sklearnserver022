@@ -1,2 +1,0 @@
-FROM   gcr.io/kfserving/sklearnserver:0.2.2
-MAINTAINER  zxz<zhuxuzhen@bupt.edu.cn>
